@@ -1,0 +1,11 @@
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/bin/Debug/netcoreapp2.2/BlogDemo.deps.json
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/bin/Debug/netcoreapp2.2/BlogDemo.runtimeconfig.json
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/bin/Debug/netcoreapp2.2/BlogDemo.runtimeconfig.dev.json
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/bin/Debug/netcoreapp2.2/BlogDemo.dll
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/bin/Debug/netcoreapp2.2/BlogDemo.pdb
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.csprojAssemblyReference.cache
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.csproj.CoreCompileInputs.cache
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.AssemblyInfoInputs.cache
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.AssemblyInfo.cs
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.dll
+/Users/christine.romano/VS_Projects/BlogDemo/BlogDemo.ConsoleApp/obj/Debug/netcoreapp2.2/BlogDemo.pdb
